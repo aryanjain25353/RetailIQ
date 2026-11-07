@@ -1,0 +1,164 @@
+Date,Product,Category,Quantity,Unit Price,Unit Cost,Discount,Sales,Profit,Region
+2025-01-01,Breathable Athletic Running Shoes,Apparel,1,85.03,48.37,0.0,85.03,36.66,North
+2025-01-01,Sonic Electric Toothbrush,Health & Personal Care,3,46.16,19.64,0.0,138.48,79.56,North
+2025-01-03,Ergonomic Mesh Office Chair,Home & Kitchen,3,192.62,108.86,0.0,577.86,251.28,West
+2025-01-04,Executive Hardcover Notebook,Office Supplies,2,15.88,5.08,0.0,31.76,21.6,West
+2025-01-05,Stainless Steel Thermal Flask,Home & Kitchen,1,21.47,8.07,0.0,21.47,13.4,South
+2025-01-05,Slim-Fit Denim Jeans,Apparel,1,54.29,24.3,5.43,48.86,24.56,Central
+2025-01-08,Slim-Fit Denim Jeans,Apparel,3,53.8,23.63,8.07,153.33,82.44,North
+2025-01-08,Ergonomic Mesh Office Chair,Home & Kitchen,2,203.27,108.84,20.33,386.21,168.53,Central
+2025-01-14,"Ultra HD Smart TV 55""",Electronics,1,476.24,424.96,47.62,428.62,3.66,North
+2025-01-16,Wireless Noise-Canceling Headphones,Electronics,2,125.28,55.17,0.0,250.56,140.22,North
+2025-01-16,Executive Hardcover Notebook,Office Supplies,1,15.94,4.97,0.8,15.14,10.17,North
+2025-01-17,Premium Cotton Crewneck T-Shirt,Apparel,1,27.29,10.13,1.36,25.93,15.8,East
+2025-01-19,Fast USB-C Charging Hub,Electronics,1,25.28,23.8,3.79,21.49,-2.31,North
+2025-01-20,Sonic Electric Toothbrush,Health & Personal Care,2,44.96,20.4,8.99,80.93,40.13,North
+2025-01-25,Ceramic Artisan Coffee Mug,Home & Kitchen,2,14.12,13.63,4.24,24.0,-3.26,East
+2025-01-28,"Ultra HD Smart TV 55""",Electronics,1,481.7,415.52,24.08,457.62,42.1,West
+2025-01-29,"Ultra HD Smart TV 55""",Electronics,1,478.04,428.06,23.9,454.14,26.08,South
+2025-02-05,Deep Tissue Massage Gun,Health & Personal Care,1,92.82,50.62,4.64,88.18,37.56,South
+2025-02-07,Slim-Fit Denim Jeans,Apparel,4,55.48,23.55,22.19,199.73,105.53,South
+2025-02-07,Slim-Fit Denim Jeans,Apparel,3,56.35,23.91,16.9,152.15,80.42,North
+2025-02-08,Stainless Steel Thermal Flask,Home & Kitchen,3,21.58,8.1,9.71,55.03,30.73,South
+2025-02-08,Gel Ink Rollerball Pens (Set of 10),Office Supplies,8,12.59,4.04,0.0,100.72,68.4,East
+2025-02-10,Sonic Electric Toothbrush,Health & Personal Care,1,43.04,19.85,0.0,43.04,23.19,East
+2025-02-13,Fast USB-C Charging Hub,Electronics,1,23.99,24.18,0.0,23.99,-0.19,North
+2025-02-14,Mechanical Gaming Keyboard,Electronics,1,94.09,50.14,9.41,84.68,34.54,East
+2025-02-15,Slim-Fit Denim Jeans,Apparel,1,54.89,24.08,0.0,54.89,30.81,North
+2025-02-15,Deep Tissue Massage Gun,Health & Personal Care,1,87.27,49.38,0.0,87.27,37.89,Central
+2025-02-16,Ceramic Artisan Coffee Mug,Home & Kitchen,1,13.83,13.23,3.46,10.37,-2.86,South
+2025-02-20,Programmable Drip Coffee Maker,Home & Kitchen,4,75.06,44.52,0.0,300.24,122.16,West
+2025-02-22,Breathable Athletic Running Shoes,Apparel,2,81.72,47.84,16.34,147.1,51.42,West
+2025-02-22,Fast USB-C Charging Hub,Electronics,1,23.88,24.03,3.58,20.3,-3.73,East
+2025-02-23,Wireless Noise-Canceling Headphones,Electronics,4,124.74,55.22,49.9,449.06,228.18,West
+2025-02-24,Smart Digital Body Scale,Health & Personal Care,2,37.65,21.58,0.0,75.3,32.14,North
+2025-02-24,Mechanical Gaming Keyboard,Electronics,2,90.64,49.8,0.0,181.28,81.68,Central
+2025-02-25,Premium Cotton Crewneck T-Shirt,Apparel,1,29.32,9.82,2.93,26.39,16.57,Central
+2025-02-26,Programmable Drip Coffee Maker,Home & Kitchen,2,80.31,45.7,0.0,160.62,69.22,East
+2025-02-27,Mechanical Gaming Keyboard,Electronics,1,94.32,50.38,0.0,94.32,43.94,North
+2025-02-27,Executive Hardcover Notebook,Office Supplies,5,15.78,4.93,3.94,74.96,50.31,North
+2025-02-28,Sonic Electric Toothbrush,Health & Personal Care,1,43.76,19.89,0.0,43.76,23.87,Central
+2025-03-01,"Ultra HD Smart TV 55""",Electronics,2,499.22,422.24,49.92,948.52,104.04,North
+2025-03-02,Dual Monitor Desk Mount,Office Supplies,3,71.14,37.81,0.0,213.42,99.99,West
+2025-03-05,Premium Cotton Crewneck T-Shirt,Apparel,1,26.78,10.18,4.02,22.76,12.58,East
+2025-03-07,Ceramic Artisan Coffee Mug,Home & Kitchen,3,13.66,13.32,6.15,34.83,-5.13,West
+2025-03-08,Mechanical Gaming Keyboard,Electronics,4,98.44,50.62,19.69,374.07,171.59,West
+2025-03-08,"Ultra HD Smart TV 55""",Electronics,2,500.64,412.78,0.0,1001.28,175.72,South
+2025-03-09,Stainless Steel Thermal Flask,Home & Kitchen,2,22.14,8.07,2.21,42.07,25.93,North
+2025-03-10,Dual Monitor Desk Mount,Office Supplies,8,68.01,38.06,27.2,516.88,212.4,North
+2025-03-13,Deep Tissue Massage Gun,Health & Personal Care,3,85.62,49.09,0.0,256.86,109.59,North
+2025-03-15,Ergonomic Mesh Office Chair,Home & Kitchen,2,202.27,111.02,40.45,364.09,142.05,North
+2025-03-16,Fast USB-C Charging Hub,Electronics,2,25.34,24.05,0.0,50.68,2.58,Central
+2025-03-19,Premium Cotton Crewneck T-Shirt,Apparel,1,26.97,10.07,2.7,24.27,14.2,North
+2025-03-23,Thermal Winter Parka Jacket,Apparel,1,142.97,74.21,0.0,142.97,68.76,East
+2025-03-27,Fast USB-C Charging Hub,Electronics,1,25.89,24.2,2.59,23.3,-0.9,North
+2025-03-27,Bluetooth Portable Speaker,Electronics,1,67.63,31.48,0.0,67.63,36.15,South
+2025-03-29,Breathable Athletic Running Shoes,Apparel,1,88.99,48.64,0.0,88.99,40.35,West
+2025-03-30,Executive Hardcover Notebook,Office Supplies,2,16.34,5.08,1.63,31.05,20.89,East
+2025-03-31,Slim-Fit Denim Jeans,Apparel,1,54.83,23.57,0.0,54.83,31.26,South
+2025-04-02,Programmable Drip Coffee Maker,Home & Kitchen,1,77.73,45.08,0.0,77.73,32.65,East
+2025-04-04,"Ultra HD Smart TV 55""",Electronics,1,475.7,428.1,0.0,475.7,47.6,North
+2025-04-06,Programmable Drip Coffee Maker,Home & Kitchen,5,81.61,44.55,0.0,408.05,185.3,South
+2025-04-07,Ceramic Artisan Coffee Mug,Home & Kitchen,1,13.85,13.52,0.0,13.85,0.33,East
+2025-04-09,Programmable Drip Coffee Maker,Home & Kitchen,3,80.18,45.26,0.0,240.54,104.76,West
+2025-04-09,Stainless Steel Thermal Flask,Home & Kitchen,2,21.16,8.07,2.12,40.2,24.06,West
+2025-04-13,Dual Monitor Desk Mount,Office Supplies,3,65.66,37.48,0.0,196.98,84.54,West
+2025-04-14,Ceramic Artisan Coffee Mug,Home & Kitchen,1,14.32,13.6,0.0,14.32,0.72,South
+2025-04-15,Gel Ink Rollerball Pens (Set of 10),Office Supplies,1,11.68,4.02,1.17,10.51,6.49,West
+2025-04-15,Premium Cotton Crewneck T-Shirt,Apparel,1,28.54,10.01,1.43,27.11,17.1,North
+2025-04-17,Premium Cotton Crewneck T-Shirt,Apparel,1,27.71,9.84,1.39,26.32,16.48,West
+2025-04-19,Programmable Drip Coffee Maker,Home & Kitchen,4,75.51,45.12,30.2,271.84,91.36,West
+2025-04-21,Programmable Drip Coffee Maker,Home & Kitchen,2,81.88,45.45,8.19,155.57,64.67,West
+2025-04-21,Premium Cotton Crewneck T-Shirt,Apparel,2,28.2,10.11,0.0,56.4,36.18,North
+2025-04-21,Smart Digital Body Scale,Health & Personal Care,1,36.22,21.79,1.81,34.41,12.62,West
+2025-04-23,Ceramic Artisan Coffee Mug,Home & Kitchen,1,14.56,13.5,3.64,10.92,-2.58,West
+2025-04-23,"Ultra HD Smart TV 55""",Electronics,3,475.73,412.16,71.36,1355.83,119.35,North
+2025-04-25,Gel Ink Rollerball Pens (Set of 10),Office Supplies,5,12.28,4.0,6.14,55.26,35.26,East
+2025-04-26,Gel Ink Rollerball Pens (Set of 10),Office Supplies,3,12.18,3.98,1.83,34.71,22.77,East
+2025-04-28,Programmable Drip Coffee Maker,Home & Kitchen,1,81.09,44.95,4.05,77.04,32.09,North
+2025-04-28,Sonic Electric Toothbrush,Health & Personal Care,2,43.09,19.73,0.0,86.18,46.72,North
+2025-04-29,Mechanical Gaming Keyboard,Electronics,4,94.38,49.7,18.88,358.64,159.84,South
+2025-04-30,Deep Tissue Massage Gun,Health & Personal Care,1,84.75,49.54,4.24,80.51,30.97,West
+2025-04-30,Fast USB-C Charging Hub,Electronics,2,24.44,24.39,0.0,48.88,0.1,West
+2025-04-30,Executive Hardcover Notebook,Office Supplies,2,15.72,4.92,1.57,29.87,20.03,North
+2025-05-01,Executive Hardcover Notebook,Office Supplies,2,16.37,4.9,0.0,32.74,22.94,South
+2025-05-02,Slim-Fit Denim Jeans,Apparel,2,52.71,24.1,0.0,105.42,57.22,North
+2025-05-02,Wireless Noise-Canceling Headphones,Electronics,1,116.19,55.96,5.81,110.38,54.42,North
+2025-05-03,Mechanical Gaming Keyboard,Electronics,3,91.12,49.99,0.0,273.36,123.39,West
+2025-05-04,Breathable Athletic Running Shoes,Apparel,2,86.51,47.07,8.65,164.37,70.23,North
+2025-05-04,Mechanical Gaming Keyboard,Electronics,4,93.92,50.92,37.57,338.11,134.43,East
+2025-05-09,Wireless Noise-Canceling Headphones,Electronics,1,120.63,55.2,0.0,120.63,65.43,East
+2025-05-14,Breathable Athletic Running Shoes,Apparel,3,85.33,48.59,25.6,230.39,84.62,North
+2025-05-15,"Ultra HD Smart TV 55""",Electronics,12,480.0,415.0,300.0,5460.0,480.0,North
+2025-05-15,Wireless Noise-Canceling Headphones,Electronics,15,120.0,55.0,180.0,1620.0,795.0,West
+2025-05-19,Sonic Electric Toothbrush,Health & Personal Care,1,44.26,19.71,0.0,44.26,24.55,East
+2025-05-21,Fast USB-C Charging Hub,Electronics,2,25.01,24.04,5.0,45.02,-3.06,South
+2025-05-23,Breathable Athletic Running Shoes,Apparel,4,87.53,47.54,17.51,332.61,142.45,North
+2025-05-23,Premium Cotton Crewneck T-Shirt,Apparel,1,28.66,10.17,4.3,24.36,14.19,East
+2025-05-27,Thermal Winter Parka Jacket,Apparel,2,138.41,76.31,0.0,276.82,124.2,North
+2025-05-28,Wireless Noise-Canceling Headphones,Electronics,1,119.08,54.53,5.95,113.13,58.6,South
+2025-05-28,Breathable Athletic Running Shoes,Apparel,2,85.58,47.22,0.0,171.16,76.72,West
+2025-05-29,Dual Monitor Desk Mount,Office Supplies,3,66.62,38.1,0.0,199.86,85.56,South
+2025-06-02,Breathable Athletic Running Shoes,Apparel,1,81.91,48.77,8.19,73.72,24.95,North
+2025-06-03,Sonic Electric Toothbrush,Health & Personal Care,3,43.09,20.39,6.46,122.81,61.64,North
+2025-06-04,Stainless Steel Thermal Flask,Home & Kitchen,2,21.99,8.08,0.0,43.98,27.82,North
+2025-06-05,"Ultra HD Smart TV 55""",Electronics,3,463.14,418.57,0.0,1389.42,133.71,North
+2025-06-07,Mechanical Gaming Keyboard,Electronics,3,95.83,49.59,14.37,273.12,124.35,South
+2025-06-10,Bluetooth Portable Speaker,Electronics,3,65.93,32.26,19.78,178.01,81.23,North
+2025-06-13,"Ultra HD Smart TV 55""",Electronics,1,466.91,421.81,23.35,443.56,21.75,South
+2025-06-17,Thermal Winter Parka Jacket,Apparel,1,145.6,75.32,0.0,145.6,70.28,South
+2025-06-17,Mechanical Gaming Keyboard,Electronics,1,98.94,49.84,0.0,98.94,49.1,East
+2025-06-18,Bluetooth Portable Speaker,Electronics,3,65.84,31.64,9.88,187.64,92.72,West
+2025-06-19,Fast USB-C Charging Hub,Electronics,2,25.71,23.71,7.71,43.71,-3.71,South
+2025-06-20,Fast USB-C Charging Hub,Electronics,20,25.0,24.5,125.0,375.0,-115.0,Central
+2025-06-21,Smart Digital Body Scale,Health & Personal Care,1,36.45,22.37,0.0,36.45,14.08,East
+2025-06-21,Wireless Noise-Canceling Headphones,Electronics,1,114.03,54.16,0.0,114.03,59.87,North
+2025-06-21,Sonic Electric Toothbrush,Health & Personal Care,3,46.11,20.36,0.0,138.33,77.25,North
+2025-06-24,Smart Digital Body Scale,Health & Personal Care,1,37.33,22.31,0.0,37.33,15.02,North
+2025-06-24,"Ultra HD Smart TV 55""",Electronics,1,470.96,420.34,23.55,447.41,27.07,North
+2025-06-25,Stainless Steel Thermal Flask,Home & Kitchen,3,22.81,8.13,3.42,65.01,40.62,West
+2025-06-26,Programmable Drip Coffee Maker,Home & Kitchen,3,76.76,45.78,23.03,207.25,69.91,South
+2025-06-27,Ceramic Artisan Coffee Mug,Home & Kitchen,1,13.69,13.33,0.0,13.69,0.36,North
+2025-06-27,Executive Hardcover Notebook,Office Supplies,1,15.51,5.0,0.78,14.73,9.73,East
+2025-07-01,Fast USB-C Charging Hub,Electronics,4,24.66,24.08,14.8,83.84,-12.48,South
+2025-07-03,Mechanical Gaming Keyboard,Electronics,2,95.34,49.18,19.07,171.61,73.25,East
+2025-07-04,Ceramic Artisan Coffee Mug,Home & Kitchen,1,14.38,13.33,1.44,12.94,-0.39,East
+2025-07-08,Ceramic Artisan Coffee Mug,Home & Kitchen,2,13.37,13.54,0.0,26.74,-0.34,South
+2025-07-08,"Ultra HD Smart TV 55""",Electronics,1,476.49,425.04,23.82,452.67,27.63,South
+2025-07-11,Sonic Electric Toothbrush,Health & Personal Care,2,44.69,19.83,4.47,84.91,45.25,South
+2025-07-13,Wireless Noise-Canceling Headphones,Electronics,1,118.94,55.61,0.0,118.94,63.33,East
+2025-07-16,Slim-Fit Denim Jeans,Apparel,1,52.44,24.32,0.0,52.44,28.12,West
+2025-07-17,Sonic Electric Toothbrush,Health & Personal Care,5,43.03,20.31,10.76,204.39,102.84,West
+2025-07-19,Programmable Drip Coffee Maker,Home & Kitchen,1,77.13,44.59,7.71,69.42,24.83,North
+2025-07-19,Slim-Fit Denim Jeans,Apparel,1,54.11,24.43,0.0,54.11,29.68,North
+2025-07-19,Gel Ink Rollerball Pens (Set of 10),Office Supplies,1,12.2,3.92,0.0,12.2,8.28,North
+2025-07-22,Deep Tissue Massage Gun,Health & Personal Care,2,89.66,50.68,0.0,179.32,77.96,North
+2025-07-24,Bluetooth Portable Speaker,Electronics,1,62.59,31.52,0.0,62.59,31.07,North
+2025-07-25,Programmable Drip Coffee Maker,Home & Kitchen,2,77.6,44.63,0.0,155.2,65.94,East
+2025-08-03,Stainless Steel Thermal Flask,Home & Kitchen,1,22.17,7.93,1.11,21.06,13.13,Central
+2025-08-03,Programmable Drip Coffee Maker,Home & Kitchen,1,77.92,44.5,11.69,66.23,21.73,West
+2025-08-05,Programmable Drip Coffee Maker,Home & Kitchen,1,80.16,45.11,0.0,80.16,35.05,South
+2025-08-06,Bluetooth Portable Speaker,Electronics,1,61.92,31.5,0.0,61.92,30.42,East
+2025-08-06,Executive Hardcover Notebook,Office Supplies,1,15.89,4.98,0.79,15.1,10.12,South
+2025-08-06,Stainless Steel Thermal Flask,Home & Kitchen,1,22.5,8.03,0.0,22.5,14.47,North
+2025-08-08,Stainless Steel Thermal Flask,Home & Kitchen,3,21.47,8.05,6.44,57.97,33.82,Central
+2025-08-08,Breathable Athletic Running Shoes,Apparel,2,85.31,47.63,17.06,153.56,58.3,Central
+2025-08-08,Mechanical Gaming Keyboard,Electronics,3,99.27,50.45,14.89,282.92,131.57,Central
+2025-08-10,Executive Hardcover Notebook,Office Supplies,2,15.87,5.06,1.59,30.15,20.03,East
+2025-08-10,Premium Cotton Crewneck T-Shirt,Apparel,4,28.74,9.86,11.5,103.46,64.02,South
+2025-08-11,Bluetooth Portable Speaker,Electronics,1,62.51,31.54,3.13,59.38,27.84,West
+2025-08-14,Slim-Fit Denim Jeans,Apparel,4,53.89,24.02,10.78,204.78,108.7,South
+2025-08-15,Gel Ink Rollerball Pens (Set of 10),Office Supplies,1,11.86,4.07,0.0,11.86,7.79,North
+2025-08-15,Mechanical Gaming Keyboard,Electronics,2,95.76,49.18,19.15,172.37,74.01,East
+2025-08-19,Premium Cotton Crewneck T-Shirt,Apparel,4,27.3,9.96,5.46,103.74,63.9,South
+2025-08-19,Sonic Electric Toothbrush,Health & Personal Care,1,46.43,20.29,0.0,46.43,26.14,North
+2025-08-23,Dual Monitor Desk Mount,Office Supplies,2,69.84,37.4,0.0,139.68,64.88,East
+2025-08-24,Bluetooth Portable Speaker,Electronics,2,66.89,32.14,13.38,120.4,56.12,North
+2025-08-24,Gel Ink Rollerball Pens (Set of 10),Office Supplies,3,11.49,4.05,1.72,32.75,20.6,North
+2025-08-25,Sonic Electric Toothbrush,Health & Personal Care,1,43.55,20.2,4.35,39.2,19.0,West
+2025-08-25,Premium Cotton Crewneck T-Shirt,Apparel,3,29.36,10.01,0.0,88.08,58.05,North
+2025-08-27,Mechanical Gaming Keyboard,Electronics,1,98.13,50.14,0.0,98.13,47.99,West
+2025-08-27,Ceramic Artisan Coffee Mug,Home & Kitchen,1,13.44,13.36,2.02,11.42,-1.94,East
+2025-08-28,Programmable Drip Coffee Maker,Home & Kitchen,2,80.12,44.77,0.0,160.24,70.7,North
+2025-08-30,Breathable Athletic Running Shoes,Apparel,2,87.26,47.24,0.0,174.52,80.04,South
+2025-08-30,Slim-Fit Denim Jeans,Apparel,2,54.67,23.64,0.0,109.34,62.06,North
