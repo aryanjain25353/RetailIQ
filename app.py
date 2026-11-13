@@ -700,7 +700,7 @@ def render_dashboard(filtered_df, total_revenue, total_profit, total_orders, tot
     best_margin_prod = prod_profit['Margin'].idxmax()
     insights.append(f"**{best_margin_prod}** yields the strongest profit margin at **{prod_profit.loc[best_margin_prod, 'Margin']:.1f}%**.")
 
-    filtered_df['IsWeekend'] = filtered_df['Date'].dt.dayofweek >= 5
+    filtered_df['IsWeekend'] = filtered_df['Date'].dt.day_of_week >= 5
     weekend_rev = filtered_df[filtered_df['IsWeekend']]['Sales'].sum()
     weekend_share = (weekend_rev / total_revenue * 100) if total_revenue > 0 else 0
     insights.append(f"Weekend orders account for **{weekend_share:.1f}%** of total sales revenue.")
